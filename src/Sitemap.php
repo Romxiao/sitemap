@@ -12,7 +12,9 @@ class Sitemap
         'path'=>null,
 //        ''
     ];
-
+    public function setTitle($title){
+        $this->config['title']=$title;
+    }
     /**
      * 设置文件创建路径
      * @param $filename

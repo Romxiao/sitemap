@@ -14,8 +14,8 @@ composer require luo/sitemap
 <?php
 use luo\sitemap\Sitemap;
 $Sitemap = new Sitemap();
+$Sitemap->setTitle("html title");
 $Sitemap->setPath("文件存放路径");
-
 
 $Sitemap->addItem('https://github.com/Romxiao/0','GIT0');
 $Sitemap->addItem('https://github.com/Romxiao/1','GIT1');

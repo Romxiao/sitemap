@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b73ba5b-2d0a-4c1c-9a61-28462f62f969" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sitemap.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sitemap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +67,9 @@
       <workItem from="1635307786334" duration="3592000" />
       <workItem from="1635313923505" duration="1552000" />
       <workItem from="1635315557979" duration="1307000" />
-      <workItem from="1635316897891" duration="323000" />
+      <workItem from="1635316897891" duration="631000" />
+      <workItem from="1635317560494" duration="3000" />
+      <workItem from="1635319382317" duration="1212000" />
     </task>
     <servers />
   </component>
@@ -88,16 +87,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/index.php</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
